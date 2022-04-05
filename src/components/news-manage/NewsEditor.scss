@@ -1,0 +1,14 @@
+.news-editor-warp {
+  .editor-content {
+    background-color: #f1f3f4;
+    padding: 10px;
+    height: 50vh;
+    box-sizing: border-box;
+    .DraftEditor-root {
+      height: 95%;
+      .public-DraftEditor-content > div {
+        padding-bottom: 10px;
+      }
+    }
+  }
+}

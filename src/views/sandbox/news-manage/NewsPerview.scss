@@ -1,0 +1,23 @@
+.preview-warp {
+  .news-info-warp {
+    padding: 0 20px;
+    .nums-item {
+      font-weight: 700;
+      color: #1890ff;
+    }
+  }
+  .news-contenr-warp {
+    padding: 0 20px 10px 20px;
+    .content-title{
+      margin: 20px 0;
+      font-size: 18px;
+      font-weight: 700;
+      padding-left: 5px;
+      border-left: 3px solid #1890ff;
+    }
+    .news-content {
+      background-color: #fafafa;
+      padding: 10px;
+    }
+  }
+}
